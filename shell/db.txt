@@ -1,0 +1,6 @@
+su
+chmod 777 /data/data/bjkcst.com.myapplication/databases/
+cd /data/data/bjkcst.com.myapplication/databases/
+cp  kc141.db /sdcard/kc141.db
+exit
+exit
