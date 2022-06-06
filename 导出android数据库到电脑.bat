@@ -8,10 +8,10 @@ SET devices_ip=192.168.2.20
 SET result_path=result
 
 :: android的数据库位置
-SET db_path=/data/data/bjkcst.com.myapplication/databases/
+SET db_path=/data/data/test/databases/
 
 :: android的数据库名
-SET db_name=kc141
+SET db_name=test
 
 :: 0：网络连接，非0：直连
 SET connect_flag=1
