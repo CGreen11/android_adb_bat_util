@@ -5,7 +5,7 @@ chcp 65001
 SET devices_ip=192.168.2.10 
 
 :: android上程序日志的位置
-SET code_log_path=/sdcard/KingKong/app
+SET code_log_path=/sdcard/test
 
 :: 所有日志输出到电脑的位置，非中文，结尾不带分隔符
 SET result_path=result
